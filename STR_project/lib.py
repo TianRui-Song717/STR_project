@@ -48,6 +48,10 @@ def clean_data(data):
     return data
 
 
+def try_me():
+    return "you have successfully run the test of this function"
+
+
 if __name__ == '__main__':
     # For introspections purpose to quickly get this functions on ipython
     import STR_project
